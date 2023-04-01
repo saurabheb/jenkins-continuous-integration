@@ -1,0 +1,8 @@
+SNAP-REPO=vpprofile-snapshot
+NEXUS-USER=admin
+NEXUS-PASS=redhat
+RELEASE-REPO=vpprofile-release
+CENTRAL-REPO=vpprofile-maven-central
+NEXUS-GRP-REPO=vpprofile-maven-group
+NEXUSIP=10.0.5.193
+NEXUSPORT=8081
